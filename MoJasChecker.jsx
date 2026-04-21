@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 
-const moImage = "https://media.licdn.com/dms/image/v2/D4E03AQFyk8zWoA2XcA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707907287510?e=2147483647&v=beta&t=LbvMCFGhlb4L9tzBpj9_Ww_Unp4z99_Mj7CrN-sJx4s";
+const moImage = "https://imgur.com/a/y8lvVp0";
 
 function getAdvice({ temperature, rain, wind }) {
   const feelsCold = temperature < 15;
